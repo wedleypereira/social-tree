@@ -25,7 +25,7 @@ document.querySelector("#app").innerHTML = `
         class="relative w-16 my-1 mx-auto"
       >
         <button
-          class="size-8 absolute top-1/2 -translate-y-1/2 z-1 left-0 animate-slide-back light:animate-slide-in bg-white hover:outline-8 hover:outline-white/20 light:hover:outline-black/10 rounded-full bg-[url('./moon-stars.svg')] light:bg-[url('./sun.svg')] bg-no-repeat bg-center"
+          class="size-8 absolute top-1/2 -translate-y-1/2 z-1 left-0 animate-slide-back light:animate-slide-in bg-white hover:outline-8 hover:outline-white/20 light:hover:outline-black/10 rounded-full bg-[url('/moon-stars.svg')] light:bg-[url('/sun.svg')] bg-no-repeat bg-center"
         ></button>
         <span
           class="block w-16 h-6 rounded-[9999px] bg-white/10 light:bg-black/10 border border-white/50 light:border-black/50 backdrop-blur-xs"
